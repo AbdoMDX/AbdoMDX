@@ -1,7 +1,9 @@
 - 👋 Hi, I’m Abdelrahman
 - 👀 I’m interested in Technology in general, but more specifically in the way they work.
 - 🌱 I’m currently learning Computer Systems Engineering
-- 📫 How to reach me personal email:abdelpersonal1@gmail.com phone:07459259749 
+- 📫 How to reach me:-
+  personal email:abdelpersonal1@gmail.com
+  phone:07459259749
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
